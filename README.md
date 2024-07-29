@@ -1,1 +1,1 @@
-# 30 Days of Javascript challenge
+# Javasxript 30 Days Vanilla Challenege  
